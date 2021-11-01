@@ -1,0 +1,3 @@
+Este texto se guardará en un archivo
+
+Nuevos datos al archivo
